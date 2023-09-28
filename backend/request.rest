@@ -1,0 +1,12 @@
+GET http://localhost:5555/
+
+###
+POST http://localhost:5555/books
+
+Content-Type: application/json
+
+{
+    "title":"dsjfoj",
+    "author":"fdsokfjdsof", 
+    "publishYear":49857
+}
